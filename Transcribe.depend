@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1745889953 source:c:\users\amd\desktop\valores\transcrição\main.cpp
+	<windows.h>
+	<dwmapi.h>
+	<iostream>
+	"transcricao.h"
+	"resource.h"
+
+1745889931 c:\users\amd\desktop\valores\transcrição\transcricao.h
+	<stdbool.h>
+
+1745015527 c:\users\amd\desktop\valores\transcrição\resource.h
+
+1745027936 source:c:\users\amd\desktop\valores\transcrição\recursos.rc
+	"resource.h"
+
+1745889931 source:c:\users\amd\desktop\valores\transcrição\transcricao.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<stdbool.h>
+	<windows.h>
+	<locale.h>
+
