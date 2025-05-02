@@ -9,8 +9,11 @@ It features a **Windows GUI** built with **C++** and uses **C** for the core log
 - Supports values up to 1 trillion
 - Validates user input with decimal and thousand separators
 - Optionally adds parentheses around the output
-- Copies the result directly to the clipboard
+- Optionally copies the result directly to the clipboard
+- Copies the result to the clipboard when double-clicked
 - User-friendly Windows desktop interface
+
+![Example demonstration](https://github.com/PHPacheco/Numbers-to-words-converter/blob/main/Transcrever.png?raw=true)
 
 ## Technologies
 
